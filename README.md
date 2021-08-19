@@ -1,24 +1,19 @@
-# vue3-practice
+### Vue3
+[Vue3官方手册](https://v3.cn.vuejs.org)
+***
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+### Vue cli
+#### 安装
+> [官方手册](https://cli.vuejs.org/zh/guide/installation.html)
+```dart
+npm install -g @vue/cli
+OR
+yarn global add @vue/cli
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+#### 创建项目
+```dart
+1、vue create 项目名称
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2、选择需要的vue版本及配置
+```
